@@ -101,7 +101,7 @@ void string_printer()
 // Return the current size of the queue.
 int queue_size()    
 	{
-		return counter;
+		return counter + 1;
     }
     
 void display_menu()    
